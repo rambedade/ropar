@@ -1,0 +1,71 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "url": "https://www.youtube.com/embed/Tn6-PIqc4UM?si=uTTwGvQ-b68wiNwa",
+      "title": "Lesson 1: Introduction to React",
+      "assessment": {
+        "type": "multiple-choice",
+        "question": "What is React?",
+        "options": ["A framework", "A library", "A programming language"],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": 2,
+      "url": "https://www.youtube.com/embed/TNhaISOUy6Q?si=DRfLu86jDVuBnjDP",
+      "title": "Lesson 2: React Components",
+      "assessment": {
+        "type": "short-answer",
+        "question": "What is a React Hooks?",
+        "correctAnswer": "A reusable building block for UI"
+      }
+    },
+    {
+      "id": 3,
+      "url": "https://www.youtube.com/embed/IYvD9oBCuJI?si=tsTnL0zapWvH4D3z",
+      "title": "Lesson 3: State and Props",
+      "assessment": {
+        "type": "multiple-choice",
+        "question": "What is the difference between state and props?",
+        "options": [
+          "State is immutable; props are mutable",
+          "State is managed within the component; props are passed from parent to child",
+          "State and props are the same"
+        ],
+        "correctAnswer": 1
+      }
+    },
+    {
+      "id": 4,
+      "url": "https://www.youtube.com/embed/0ZJgIjIuY7U?si=NjJ0U8OF7jR6Ag3W",
+      "title": "Lesson 4: React Lifecycle Methods",
+      "assessment": {
+        "type": "short-answer",
+        "question": "Name one React lifecycle method.",
+        "correctAnswer": "componentDidMount"
+      }
+    },
+    {
+      "id": 5,
+      "url": "https://www.youtube.com/embed/6ThXsUwLWvc?si=iyTFvKYO3rmgiqE-",
+      "title": "Lesson 5: React Hooks",
+      "assessment": {
+        "type": "multiple-choice",
+        "question": "Which of the following is a React hook?",
+        "options": ["useState", "useComponent", "useProps"],
+        "correctAnswer": 0
+      }
+    },
+    {
+      "id": 6,
+      "url": "https://www.youtube.com/embed/5LrDIWkK_Bc?si=XVKkorx4W1y445ti",
+      "title": "Lesson 6: Context API",
+      "assessment": {
+        "type": "short-answer",
+        "question": "What is the Context API used for?",
+        "correctAnswer": "To manage global state in a React app"
+      }
+    }
+  ]
+}
